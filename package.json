@@ -1,0 +1,18 @@
+{
+  "name": "somy-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsec516/somy-logger.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "MD. Jahidul Islam <jsec516@gmail.com>",
+  "license": "ISC"
+}
