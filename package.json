@@ -14,5 +14,9 @@
     "logger"
   ],
   "author": "MD. Jahidul Islam <jsec516@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^2.3.1",
+    "winston-papertrail": "^1.0.4"
+  }
 }
